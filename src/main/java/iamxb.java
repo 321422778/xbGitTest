@@ -5,5 +5,7 @@ public class iamxb {
     public void version()
     {
         //这只是一个注释而已
+        String cloudits;
+        cloudits="https://www.baidu.com"
     }
 }
